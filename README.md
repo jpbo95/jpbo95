@@ -14,7 +14,7 @@
 * SQL
 * Logica de Programação
 
-## [Linkedin]( https://www.linkedin.com/in/jpbo95).
+## [Linkedin](https://www.linkedin.com/in/jpbo95)
 
 ## **Projects**
 
